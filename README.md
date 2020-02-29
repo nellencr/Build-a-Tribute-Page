@@ -6,7 +6,7 @@
  This project consist of building a tribute page using only responsive Html and CSS.
 
 
-![screenshot](image/screen.png)
+![screenshot](images/screen.png)
 
 
 ## Built With
@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Temmarie/Smashing-Magazine/feature/index.html)
+[Live Demo Link](https://raw.githack.com/nellencr/Build-a-Tribute-Page/feature/index.html)
 
 
 
