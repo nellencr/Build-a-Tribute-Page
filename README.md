@@ -6,7 +6,7 @@
  This project consist of building a tribute page using only responsive Html and CSS.
 
 
-![screenshot](screen.png)
+![screenshot](image/screen.png)
 
 
 ## Built With
